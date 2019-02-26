@@ -1,0 +1,20 @@
+{
+	"testNode": {
+		"polaris1": "http://polaris1.ont.io",
+		"polaris2": "http://polaris2.ont.io",
+		"polaris3": "http://polaris3.ont.io",
+		"polaris4": "http://polaris4.ont.io",
+		"polaris5": "http://polaris5.ont.io"
+	},
+	"mainNode": {
+		"dappnode1": "http://dappnode1.ont.io",
+		"dappnode2": "http://dappnode2.ont.io",
+		"dappnode3": "http://dappnode3.ont.io",
+		"dappnode4": "http://dappnode4.ont.io"
+	},
+	"port": {
+		"rpc": 20336,
+		"restful": 20334,
+		"ws": 20335
+	}
+}

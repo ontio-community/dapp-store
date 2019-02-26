@@ -1,0 +1,28 @@
+{
+	"dapps": [{
+		"name": "Deershooter",
+		"type": "game",
+		"smartcontract": "eab757b91e95cc6bcb5776215e21141fa05c5e04",
+		"logo": "https://cms.ont.io/uploads/images/dapp/9d678c381d431efc75ef41b29073bedb.png",
+		"website": "https://deershooter.one/",
+		"desc": "The more you play, the more you get",
+		"details": "All transactions will be implement through smart contract and record on ontology blockchain network. Irreversible processs meaning manipulation is forbidden in any scenarios. A reward will be given to player according to their score, from 0 to 5000."
+
+	}, {
+		"name": "LuckyMoon",
+		"type": "game",
+		"smartcontract": "fceb516248246d19a76a7afaaec3a9e7c9c7a847",
+		"logo": "https://cms.ont.io/uploads/images/dapp/952c265bfa2dcef1492d0d5df66fd2cf.jpg",
+		"website": "https://luckymoon.io/",
+		"desc": "A blockchain game.",
+		"details": "Luckymoon is a fun game running on Ontology Public Network. The game had designed with a simple rule that testing the reaction of players. Believe or not will decide the amount of winning. If you 'stop' before the line crashes then you will win. If you don't stop before the line crashes then you will lose."
+	}, {
+		"name": "OntBet",
+		"type": "game",
+		"smartcontract": "f91b7e9e82d733c5e2fbe66f1b05fd0d66002d54",
+		"logo": "https://cms.ont.io/uploads/images/dapp/5a2773fa4f4662c55a56647ab506d468.jpg",
+		"website": "",
+		"desc": "Decentralized Gaming Platform",
+		"details": ""
+	}]
+}
