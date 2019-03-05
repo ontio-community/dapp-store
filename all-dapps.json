@@ -144,5 +144,32 @@
 		"website": "https://win.ontologame.com/#/",
 		"desc": "An Interesting guessing game",
 		"details": "The integration of blockchain improve the fairness and transparency of the games. Player will not only enjoy joyness of winning, also the scales of justice."
+	}, {
+		"name": "Ongame",
+		"type": "game",
+		"createtime": "2019/02/22 18:19:51",
+		"smartcontract": "5575afb19f92125062e0ad690e3a266c6ca814ef",
+		"logo": "https://cms.ont.io/uploads/images/dapp/a668a5cccee9a0055666a3ef6621b74e.jpg",
+		"website": "https://ongame.fun/",
+		"desc": "Interesting P2P small games.",
+		"details": "Based on Ontology Blockchain, ongame.fun platform will include P2P small games."
+	}, {
+		"name": "ont188",
+		"type": "game",
+		"createtime": "2019/02/20 13:51:04",
+		"smartcontract": "774b7a6901cee51a79ad1ffa30a1c1041ccf1eaf",
+		"logo": "https://cms.ont.io/uploads/images/dapp/580964906bdebf0a05c11a16043187d3.jpg",
+		"website": "https://ont188.com/",
+		"desc": "blockchainized gaming platform",
+		"details": "ONT188 is the world's first blockchainized betting site. It's powered by the Ontology Oracle smart contract. Focusing on Sports and E-sports betting markets with 2% commissions. We're aiming to provide the safest and fairest online betting service."
+	}, {
+		"name": "Ontdex",
+		"type": "exchange",
+		"createtime": "2019/02/18 10:03:26",
+		"smartcontract": "d3b733f12df9a6efb13ca547be5ee4e4dbe6d41e",
+		"logo": "https://cms.ont.io/uploads/images/dapp/1ac27db1899bae0a037f7ce9aa8737f6.jpg",
+		"website": "http://www.ontdex.io/#/",
+		"desc": "Decentralized Exchange Platform",
+		"details": "Ontdex is the first decentralized exchange on the ontology, supporting the transaction between the two major tokens of ONT and ONG, supporting the trading of OEP-4 token, OEP-5 token, OEP-8 token with ONG as the quote currency.If there is a stable currency on the ontology that complies with the OEP4 standard, ontdex will also support trading pairs with stable currency as the quote currency."
 	}]
 }
