@@ -24,5 +24,13 @@
 		"website": "https://ont.bet/",
 		"desc": "Decentralized Gaming Platform",
 		"details": ""
+	}, {
+		"name": "像素鸟",
+		"type": "game",
+		"smartcontract": "6d062d85983eac16cf66a8b4e9951ff7e90bef99",
+		"logo": "https://cms.ont.io/uploads/images/dapp/0caedec9127f032a04f8fbbd8cee75e4.jpg",
+		"website": "https://2.playtupus.com/zhuzai-Dapp",
+		"desc": "首款纯免费可赚钱链游",
+		"details": "首款纯免费可赚钱链游"
 	}]
 }

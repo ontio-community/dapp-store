@@ -171,5 +171,14 @@
 		"website": "http://www.ontdex.io/#/",
 		"desc": "Decentralized Exchange Platform",
 		"details": "Ontdex is the first decentralized exchange on the ontology, supporting the transaction between the two major tokens of ONT and ONG, supporting the trading of OEP-4 token, OEP-5 token, OEP-8 token with ONG as the quote currency.If there is a stable currency on the ontology that complies with the OEP4 standard, ontdex will also support trading pairs with stable currency as the quote currency."
+	}, {
+		"name": "像素鸟",
+		"type": "game",
+		"createtime": "2019/03/15 15:17:26",
+		"smartcontract": "6d062d85983eac16cf66a8b4e9951ff7e90bef99",
+		"logo": "https://cms.ont.io/uploads/images/dapp/0caedec9127f032a04f8fbbd8cee75e4.jpg",
+		"website": "https://2.playtupus.com/zhuzai-Dapp",
+		"desc": "首款纯免费可赚钱链游",
+		"details": "首款纯免费可赚钱链游"
 	}]
 }
