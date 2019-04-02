@@ -171,5 +171,23 @@
 		"website": "https://blockwar.online",
 		"desc": "硬核版的细胞吞噬，全球同服瓜分ONG",
 		"details": "这是一款硬核版的细胞吞噬，你将扮演一个区块，通过不断吞噬其他区块获取能量变得强大，每一轮有24小时时间，排名第一的区块将获得奖池一半的奖励，其他玩家瓜分另外一半。"
+	}, {
+		"name": "本体红包",
+		"type": "game",
+		"createtime": "2019/04/01 23:32:35",
+		"smartcontract": "edb5aa2892359a3e6136cfff4d137f82bc02b272",
+		"logo": "https://i.postimg.cc/4xNr7byQ/onthongbao.png",
+		"website": "https://ont.hihb.one/activity/hihongbao",
+		"desc": "简单，好玩，刺激的抢红包游戏! ",
+		"details": "首款基于本体开发的抢红包游戏，高达80%的平台分红，每天氪金榜TOP15还可享受高额奖励。简单，刺激，好玩！上线前一周免费领取创世空投，享受高额分红奖励！"
+	}, {
+		"name": "2048 Enhanced",
+		"type": "game",
+		"createtime": "2019/04/01 02:02:06",
+		"smartcontract": "aa0547aac7b9822167e2576f5c921ea0eb5ada7f",
+		"logo": "https://i.postimg.cc/BQCrnwSv/ont2048.png",
+		"website": "ymt.one/2048Enhanced",
+		"desc": "2048 so cool",
+		"details": "The same number can be superimposed, very fun 2048 game, come to try it. "
 	}]
 }

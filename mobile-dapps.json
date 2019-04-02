@@ -16,5 +16,13 @@
 		"website": "https://bird.paritychain.cn/pixelbird",
 		"desc": "首款纯免费可赚钱链游",
 		"details": "首款纯免费可赚钱链游"
+	}, {
+		"name": "本体红包",
+		"type": "game",
+		"smartcontract": "edb5aa2892359a3e6136cfff4d137f82bc02b272",
+		"logo": "https://i.postimg.cc/4xNr7byQ/onthongbao.png",
+		"website": "https://ont.hihb.one/activity/hihongbao",
+		"desc": "简单，好玩，刺激的抢红包游戏! ",
+		"details": "首款基于本体开发的抢红包游戏，高达80%的平台分红，每天氪金榜TOP15还可享受高额奖励。简单，刺激，好玩！上线前一周免费领取创世空投，享受高额分红奖励！"
 	}]
 }
