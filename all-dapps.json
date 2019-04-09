@@ -180,5 +180,23 @@
 		"website": "ymt.one/2048Enhanced",
 		"desc": "2048 so cool",
 		"details": "The same number can be superimposed, very fun 2048 game, come to try it. "
+	}, {
+		"name": "Super Mario",
+		"type": "game",
+		"createtime": "2019/04/01 02:11:11",
+		"smartcontract": "85b62155dec92f4d469bef6b55f786c269cb37c6",
+		"logo": "https://i.postimg.cc/8cTtMcWY/m.png",
+		"website": "ymt.one/SuperMario",
+		"desc": "traditional Mario",
+		"details": "Retro super Mario, come get more gold."
+	}, {
+		"name": "Fishing Man",
+		"type": "game",
+		"createtime": "2019/04/01 02:06:30",
+		"smartcontract": "8c15299cc6843e808b42f1ffb9cff7ec36f81ea1",
+		"logo": "https://i.postimg.cc/85RZ7MFW/fishman.png",
+		"website": "ymt.one/FishingMan",
+		"desc": "I love Fish.",
+		"details": "Kill small fry to get more rewards. "
 	}]
 }
