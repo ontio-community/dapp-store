@@ -148,7 +148,7 @@
 		"name": "像素鸟",
 		"type": "game",
 		"createtime": "2019/03/15 15:17:26",
-		"smartcontract": "6d062d85983eac16cf66a8b4e9951ff7e90bef99",
+		"smartcontract": "81e9ad4bdcc91e439ef167cacb6da919f73842f6",
 		"logo": "https://cms.ont.io/uploads/images/dapp/0caedec9127f032a04f8fbbd8cee75e4.jpg",
 		"website": "https://bird.paritychain.cn/pixelbird",
 		"desc": "首款纯免费可赚钱链游",
@@ -157,7 +157,7 @@
 		"name": "区块战争",
 		"type": "game",
 		"createtime": "2019/04/01 11:09:56",
-		"smartcontract": "79a562f84b7954c62331071d818c1dfa4a747692",
+		"smartcontract": "573dd44ca1c691e6d224119ebdd762960089d826",
 		"logo": "https://i.postimg.cc/QxT8BVZ4/blockwar.png",
 		"website": "https://blockwar.online",
 		"desc": "硬核版的细胞吞噬，全球同服瓜分ONG",
@@ -198,5 +198,14 @@
 		"website": "ymt.one/FishingMan",
 		"desc": "I love Fish.",
 		"details": "Kill small fry to get more rewards. "
+	}, {
+		"name": "熊本冲",
+		"type": "game",
+		"createtime": "2019/04/04 18:36:36",
+		"smartcontract": "4ad8a1c551c0d70ccc3b8ff83cd7d6d3fa647141",
+		"logo": "https://i.postimg.cc/FFD2Ks9n/bear.png",
+		"website": "https://paritybear.paritychain.cn/",
+		"desc": "Baby-bear Go",
+		"details": "Baby-bear Go is a simple chain game with immense reward,you can get centuplicate awards in the game! Now supporting a variety of wallets: Onion, Math, Banko, etc. *ParityGame issuance"
 	}]
 }

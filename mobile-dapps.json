@@ -11,7 +11,7 @@
 	}, {
 		"name": "像素鸟",
 		"type": "game",
-		"smartcontract": "6d062d85983eac16cf66a8b4e9951ff7e90bef99",
+		"smartcontract": "81e9ad4bdcc91e439ef167cacb6da919f73842f6",
 		"logo": "https://cms.ont.io/uploads/images/dapp/0caedec9127f032a04f8fbbd8cee75e4.jpg",
 		"website": "https://bird.paritychain.cn/pixelbird",
 		"desc": "首款纯免费可赚钱链游",
@@ -24,5 +24,13 @@
 		"website": "https://ont.hihb.one/activity/hihongbao",
 		"desc": "简单，好玩，刺激的抢红包游戏! ",
 		"details": "首款基于本体开发的抢红包游戏，高达80%的平台分红，每天氪金榜TOP15还可享受高额奖励。简单，刺激，好玩！上线前一周免费领取创世空投，享受高额分红奖励！"
+	}, {
+		"name": "熊本冲",
+		"type": "game",
+		"smartcontract": "4ad8a1c551c0d70ccc3b8ff83cd7d6d3fa647141",
+		"logo": "https://i.postimg.cc/FFD2Ks9n/bear.png",
+		"website": "https://paritybear.paritychain.cn/",
+		"desc": "Baby-bear Go",
+		"details": "Baby-bear Go is a simple chain game with immense reward,you can get centuplicate awards in the game! Now supporting a variety of wallets: Onion, Math, Banko, etc. *ParityGame issuance"
 	}]
 }
