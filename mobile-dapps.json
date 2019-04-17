@@ -32,5 +32,13 @@
 		"website": "https://paritybear.paritychain.cn/",
 		"desc": "Baby-bear Go",
 		"details": "Baby-bear Go is a simple chain game with immense reward,you can get centuplicate awards in the game! Now supporting a variety of wallets: Onion, Math, Banko, etc. *ParityGame issuance"
+	}, {
+		"name": "爆爽弹一弹",
+		"type": "game",
+		"smartcontract": "5389914e9ad96cc8a15a3e961440334719270cf8",
+		"logo": "https://i.postimg.cc/fb82FD71/boom.jpg",
+		"website": "https://play1.dapp.dappmap.io/",
+		"desc": "最好玩的弹球小游戏",
+		"details": "《爆爽弹一弹》是一款人气非常火爆的小游戏，操作简单，可以赚钱的弹球游戏，每天开宝箱，冲榜活动嗨翻到爆"
 	}]
 }
