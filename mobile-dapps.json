@@ -40,5 +40,21 @@
 		"website": "https://play1.dapp.dappmap.io/",
 		"desc": "最好玩的弹球小游戏",
 		"details": "《爆爽弹一弹》是一款人气非常火爆的小游戏，操作简单，可以赚钱的弹球游戏，每天开宝箱，冲榜活动嗨翻到爆"
+	}, {
+		"name": "本体传奇",
+		"type": "game",
+		"smartcontract": "4093d2947e3f5d0343aebedc5ef788361f1138bf",
+		"logo": "https://i.postimg.cc/sg1R8XJb/chuanqi.jpg",
+		"website": "http://www.cttlife.com/Noumenon",
+		"desc": "《本体传奇》是一款魔幻题材即时战斗游戏，打怪掉OCTT代币可参与分红",
+		"details": "《本体传奇》是一款魔幻题材即时战斗游戏，打怪掉OCTT代币可参与分红。 还原经典传奇，大型智能ARPG游戏，超强引擎H5，无缝连接所有设备，区块链加持，龙城TRX支付，数据合约上链，丰富的游戏玩法内容(主城PK、翅膀、传世神装、全民BOSS、公会)，颠覆传统游戏体验，感受三人行pk的爽快并肩征战九州，问鼎传奇之巅，兄弟们等你来战，打怪掉落token，攻占沙城token奖励，持有OCTT享受分红，工会会长享受充值分红。"
+	}, {
+		"name": "枪手总动员",
+		"type": "game",
+		"smartcontract": "e6209479c1380c937fe9a4ce35fe952a83f301f2",
+		"logo": "https://i.postimg.cc/66dR26Cs/gun.png",
+		"website": "http://gun.dapp.dappmap.io/",
+		"desc": "开局一把枪，闯关开宝箱",
+		"details": "《枪手总动员》是一款枪手闯关游戏，每天闯关开宝箱，还能冲榜拿奖励，快来体验吧！"
 	}]
 }
