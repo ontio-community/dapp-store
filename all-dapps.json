@@ -234,5 +234,14 @@
 		"website": "http://gun.dapp.dappmap.io/",
 		"desc": "开局一把枪，闯关开宝箱",
 		"details": "《枪手总动员》是一款枪手闯关游戏，每天闯关开宝箱，还能冲榜拿奖励，快来体验吧！"
+	}, {
+		"name": "ONS",
+		"type": "service",
+		"createtime": "2019/04/27 16:00:00",
+		"smartcontract": "54b46e4129c452a5b5470270c3fa00c4ddbc22a8",
+		"logo": "https://i.postimg.cc/bYtf6XvT/ONS.jpg",
+		"website": "http://www.ontns.io/",
+		"desc": "ONTology Name Service",
+		"details": "ONS（ONTology Name Service）可以将无序的、繁琐的、难以记忆的钱包地址交由用户自定义为以“.ont”结尾的短域名，比如“h2team.ont”"
 	}]
 }
