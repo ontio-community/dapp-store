@@ -243,5 +243,23 @@
 		"website": "http://www.ontns.io/",
 		"desc": "ONTology Name Service",
 		"details": "ONS（ONTology Name Service）可以将无序的、繁琐的、难以记忆的钱包地址交由用户自定义为以“.ont”结尾的短域名，比如“h2team.ont”"
+	}, {
+		"name": "贪吃蛇",
+		"type": "game",
+		"createtime": "2019/04/30 16:00:00",
+		"smartcontract": "75706715336de4d64fbe40f348993097b1863d3b",
+		"logo": "https://app.ont.io/socialmedia/pic/tanchishe.png",
+		"website": "https://ont.eosjoy.io/#/game/",
+		"desc": "首个区块链贪吃蛇游戏",
+		"details": "好玩、有趣的区块链贪吃蛇，盘起来"
+	}, {
+		"name": "加密西游",
+		"type": "game",
+		"createtime": "2019/04/29 20:05:21",
+		"smartcontract": "4e34581c5102b2fec34016dd384c16832f182f51",
+		"logo": "https://app.ont.io/socialmedia/pic/xiyou.png",
+		"website": "https://cdn.dappdanaoxiyou.couplefish.com",
+		"desc": "本体首款无限通关塔防类游戏",
+		"details": "加密西游是由DAppBirds联合发行的本体首款无限通关塔防类游戏，游戏的核心玩法是一款射击塔防玩法的小游戏，挑战更后期的关卡，在世界排行榜中获取更高的名次，获得满足感和荣耀感。 在视觉上的体验以及射击的反馈，经过不断的对比和调试，目前游戏的视觉上的体验以及射击的反馈已达到比较高的水平。"
 	}]
 }

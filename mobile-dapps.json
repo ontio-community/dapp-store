@@ -56,5 +56,13 @@
 		"website": "http://gun.dapp.dappmap.io/",
 		"desc": "开局一把枪，闯关开宝箱",
 		"details": "《枪手总动员》是一款枪手闯关游戏，每天闯关开宝箱，还能冲榜拿奖励，快来体验吧！"
+	}, {
+		"name": "加密西游",
+		"type": "game",
+		"smartcontract": "4e34581c5102b2fec34016dd384c16832f182f51",
+		"logo": "https://app.ont.io/socialmedia/pic/xiyou.png",
+		"website": "https://cdn.dappdanaoxiyou.couplefish.com",
+		"desc": "本体首款无限通关塔防类游戏",
+		"details": "加密西游是由DAppBirds联合发行的本体首款无限通关塔防类游戏，游戏的核心玩法是一款射击塔防玩法的小游戏，挑战更后期的关卡，在世界排行榜中获取更高的名次，获得满足感和荣耀感。 在视觉上的体验以及射击的反馈，经过不断的对比和调试，目前游戏的视觉上的体验以及射击的反馈已达到比较高的水平。"
 	}]
 }
