@@ -57,6 +57,14 @@
 		"desc": "开局一把枪，闯关开宝箱",
 		"details": "《枪手总动员》是一款枪手闯关游戏，每天闯关开宝箱，还能冲榜拿奖励，快来体验吧！"
 	}, {
+		"name": "贪吃蛇",
+		"type": "game",
+		"smartcontract": "75706715336de4d64fbe40f348993097b1863d3b",
+		"logo": "https://app.ont.io/socialmedia/pic/tanchishe.png",
+		"website": "https://ont.eosjoy.io/#/game/",
+		"desc": "首个区块链贪吃蛇游戏",
+		"details": "好玩、有趣的区块链贪吃蛇，盘起来"
+	}, {
 		"name": "加密西游",
 		"type": "game",
 		"smartcontract": "4e34581c5102b2fec34016dd384c16832f182f51",
