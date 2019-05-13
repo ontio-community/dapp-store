@@ -261,5 +261,32 @@
 		"website": "https://cdn.dappdanaoxiyou.couplefish.com",
 		"desc": "本体首款无限通关塔防类游戏",
 		"details": "加密西游是由DAppBirds联合发行的本体首款无限通关塔防类游戏，游戏的核心玩法是一款射击塔防玩法的小游戏，挑战更后期的关卡，在世界排行榜中获取更高的名次，获得满足感和荣耀感。 在视觉上的体验以及射击的反馈，经过不断的对比和调试，目前游戏的视觉上的体验以及射击的反馈已达到比较高的水平。"
+	}, {
+		"name": "出逃吧！鸭梨君",
+		"type": "game",
+		"createtime": "2019/05/08 17:56:37",
+		"smartcontract": "d9722202f715e751412838d47d713a2d899904bc",
+		"logo": "https://i.postimg.cc/3J20bfwR/yali.jpg",
+		"website": "https://pears.paritychain.cn",
+		"desc": "最赚钱的链游，首创“战队”玩法、奖励“转盘”模式",
+		"details": "人有多大胆、地有多大产，《出逃吧！鸭梨君》以简单的游戏方式，使玩家最大限度将精力集中在享受游戏、获取收益的过程，首创“战队”、奖励“转盘”模式，以玩家协同、共赢共享的方式参与到链游发展红利中来！"
+	}, {
+		"name": "大鸟撞小鸟",
+		"type": "game",
+		"createtime": "2019/05/09 14:48:04",
+		"smartcontract": "e1e9a4fe5d9bd4adef0a1e58fa05961526466487",
+		"logo": "https://i.postimg.cc/cLmgdKwG/birds.png",
+		"website": "http://bird.minidapp.fun/",
+		"desc": "大鸟大鸟蹦蹦蹦",
+		"details": "紧张、有趣的益智游戏，你是不是机智的大鸟"
+	}, {
+		"name": "宇称-危城余生",
+		"type": "game",
+		"createtime": "2019/04/29 11:06:59",
+		"smartcontract": "5075b85f9b430a5eaec398fe3a45299525e0f9ae",
+		"logo": "https://i.postimg.cc/XY3BMKZg/yusheng.jpg",
+		"website": "https://www.paritygame.com/presale",
+		"desc": "最新OEP-8资产标准，首批同质化游戏道具预售",
+		"details": "《危城余生》本体定制款游戏道具，最新OEP-8资产标准，首批同质化游戏道具预售，支持ONT DEX平台交易；玩家持有该款道具不仅可以应用在《危城余生》游戏中，未来还可以提取到不同的区块链游戏中使用（不仅限于本体链游），投入0风险、持有即可瓜分游戏销量红利，带你玩儿“赚”链游圈！"
 	}]
 }
