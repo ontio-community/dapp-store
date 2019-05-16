@@ -288,5 +288,23 @@
 		"website": "https://www.paritygame.com/presale",
 		"desc": "最新OEP-8资产标准，首批同质化游戏道具预售",
 		"details": "《危城余生》本体定制款游戏道具，最新OEP-8资产标准，首批同质化游戏道具预售，支持ONT DEX平台交易；玩家持有该款道具不仅可以应用在《危城余生》游戏中，未来还可以提取到不同的区块链游戏中使用（不仅限于本体链游），投入0风险、持有即可瓜分游戏销量红利，带你玩儿“赚”链游圈！"
+	}, {
+		"name": "超级星球",
+		"type": "game",
+		"createtime": "2019/05/10 21:10:57",
+		"smartcontract": "393662c046b4daf8e35960428d17d0a67a46380e",
+		"logo": "https://app.ont.io/socialmedia/pic/xingqiu.png",
+		"website": "http://planet.dappmap.io/",
+		"desc": "投资矿机享受100倍收益率",
+		"details": "超级星球——基于本体公链开发的放置类收矿社交游戏。每位玩家拥有一颗星球，在自己的星球中购买放置不同等级、种类的矿机采集矿石，还能掠夺其它玩家星球的矿石。矿石可以定期获得平台的分红收益，后续还可以直接在虚拟市场中交易。"
+	}, {
+		"name": "区块忍者",
+		"type": "game",
+		"createtime": "2019/05/14 14:16:20",
+		"smartcontract": "d32eb834740c78c864ddd615a7c24b994a779d90",
+		"logo": "https://app.ont.io/socialmedia/pic/renzhe.png",
+		"website": "https://dapp.game.dappmap.io/ontninja/",
+		"desc": "区块链闯关PK竞赛游戏",
+		"details": "区块忍者-------区块链闯关PK竞赛游戏，每天闯关玩家TOP10可获得高额平台奖励。还有“闯关王者”场和全服玩家一起竞技拿大奖。 玩法：只需要在屏幕上利用手势操作小忍者移动，穿过各种复杂的地图路线和机关，将怪物们全部消灭，记住任何轻率的决策都会让游戏失败，快来挑战吧！ "
 	}]
 }
