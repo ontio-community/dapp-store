@@ -351,5 +351,41 @@
 		"website": "http://ongchina.online/",
 		"desc": "合成2048，防御萌宠进攻你得家园",
 		"details": "通过2048来合成你的防御塔，保护你的小镇，抵御来进攻的各种萌宠。 收集各种不同防御塔外形，提升你的技能，让你能坚持更长的时间。 "
+	}, {
+		"name": "捣蛋猪",
+		"type": "game",
+		"createtime": "2019/05/23 15:34:20",
+		"smartcontract": "e2118c6b9fe62a072450c2c3830ebbcfe8c441f4",
+		"logo": "https://i.postimg.cc/PJ7K5gP9/pig.png",
+		"website": "https://pig.ont188.com",
+		"desc": "开动脑筋，合理搭配道具，闯过关卡吧！",
+		"details": "这次小猪的路途可相当崎岖不平，需要通过飞行、爬行、滚动、旋转、撞击，才能找到地图碎片、鸟蛋、蛋糕、钥匙等；这么有挑战性的工作光靠这只小笨猪可完不成，玩家要 利用手上的资源去制造一辆交通工具作为小猪的“坐骑”，从而完成关卡任务。"
+	}, {
+		"name": "CryptoNinja",
+		"type": "game",
+		"createtime": "2019/05/21 13:00:46",
+		"smartcontract": "8b46388df2968d710f7c7a5df266884ac0b05f8e",
+		"logo": "https://i.postimg.cc/xC06xGwx/qietoken.jpg",
+		"website": "https://crypto-ninja-ong.herokuapp.com/",
+		"desc": "H5, Crypto, Ninja, Gaming",
+		"details": "玩币圈忍者，每天前10瓜分奖金池的50%。 游戏说明：1。每场比赛费用为0.1 ONG; 2. 每天前10分数地址将平分游戏收入池的50％。 3.每24小时重置一次排名周期。"
+	}, {
+		"name": "泡泡龙",
+		"type": "game",
+		"createtime": "2019/05/23 15:42:17",
+		"smartcontract": "4457b08526c8cbfbbb352438e263462d391b500e",
+		"logo": "https://i.postimg.cc/HnnBHYsb/paopaolong.jpg",
+		"website": "https://farm.ont188.com",
+		"desc": "一款画面简单、休闲益智的经典泡泡龙游戏",
+		"details": "相同颜色的三个以上的泡泡相连可以消除，发射小球消除所有的泡泡即可过关"
+	}, {
+		"name": "ONG Miner",
+		"type": "game",
+		"createtime": "2019/05/17 17:56:12",
+		"smartcontract": "f92e672f44df74e77f6b39d8dd5758481eb0ac3b",
+		"logo": "https://i.postimg.cc/XJQQTG3V/ongMiner.png",
+		"website": "https://www.ongminer.xyz",
+		"desc": "一个基于本体上的挖矿游戏，只要你解开下一个区块Key，你将获得100ONG",
+		"details": "这是一个基于本体上的挖矿游戏，只要你解开下一个区块Key,你将获得 100 ONG的奖励； 每一次你只需要消耗少量手续费（0.01 ONG) 即可开始挖矿，并获得一个随机key (在同一区块高度不重复), 如果与下一个区块Key匹配，即挖矿成功！ 虽然这是个游戏，但你获得的ONG却是真实的！快来玩吧 "
 	}]
 }
