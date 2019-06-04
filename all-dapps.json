@@ -387,5 +387,14 @@
 		"website": "https://www.ongminer.xyz",
 		"desc": "一个基于本体上的挖矿游戏，只要你解开下一个区块Key，你将获得100ONG",
 		"details": "这是一个基于本体上的挖矿游戏，只要你解开下一个区块Key,你将获得 100 ONG的奖励； 每一次你只需要消耗少量手续费（0.01 ONG) 即可开始挖矿，并获得一个随机key (在同一区块高度不重复), 如果与下一个区块Key匹配，即挖矿成功！ 虽然这是个游戏，但你获得的ONG却是真实的！快来玩吧 "
+	}, {
+		"name": "HyperSnakes",
+		"type": "game",
+		"createtime": "2019/05/28 19:09:50",
+		"smartcontract": "4765d8fa1c3f8f938ddb19ac5e848b422f67bfa9",
+		"logo": "https://i.postimg.cc/ydvrjZD4/hypersnakes.jpg",
+		"website": "https://www.hypersnakes.io/o/o/index.html",
+		"desc": "Real-time global multiplayer Snake game",
+		"details": "HyperSnakes is the first game where blockchain meets global real-time multiplayer battle game. Players can join a battle to compete with global players at any place. As long as you can ensure that your snake will survive till the end and become snake king, you can take away all the tokens you collected, winning the biggest reward in the battlefield. "
 	}]
 }

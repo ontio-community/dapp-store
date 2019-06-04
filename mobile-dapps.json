@@ -112,5 +112,13 @@
 		"website": "https://dapp.game.dappmap.io/ontninja/",
 		"desc": "区块链闯关PK竞赛游戏",
 		"details": "区块忍者-------区块链闯关PK竞赛游戏，每天闯关玩家TOP10可获得高额平台奖励。还有“闯关王者”场和全服玩家一起竞技拿大奖。 玩法：只需要在屏幕上利用手势操作小忍者移动，穿过各种复杂的地图路线和机关，将怪物们全部消灭，记住任何轻率的决策都会让游戏失败，快来挑战吧！ "
+	}, {
+		"name": "HyperSnakes",
+		"type": "game",
+		"smartcontract": "4765d8fa1c3f8f938ddb19ac5e848b422f67bfa9",
+		"logo": "https://i.postimg.cc/ydvrjZD4/hypersnakes.jpg",
+		"website": "https://www.hypersnakes.io/o/o/index.html",
+		"desc": "Real-time global multiplayer Snake game",
+		"details": "HyperSnakes is the first game where blockchain meets global real-time multiplayer battle game. Players can join a battle to compete with global players at any place. As long as you can ensure that your snake will survive till the end and become snake king, you can take away all the tokens you collected, winning the biggest reward in the battlefield. "
 	}]
 }
