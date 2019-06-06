@@ -1,0 +1,28 @@
+{
+	"dapps": [{
+		"name": "Deershooter",
+		"type": "game",
+		"smartcontract": "ecceb5863d20b9d05412a5f2641167e716628932",
+		"logo": "https://cms.ont.io/uploads/images/dapp/9d678c381d431efc75ef41b29073bedb.png",
+		"website": "https://deershooter.one/",
+		"desc": "The more you play, the more you get",
+		"details": "All transactions will be implement through smart contract and record on ontology blockchain network. Irreversible processs meaning manipulation is forbidden in any scenarios. A reward will be given to player according to their score, from 0 to 5000."
+
+	}, {
+		"name": "HyperSnakes",
+		"type": "game",
+		"smartcontract": "4765d8fa1c3f8f938ddb19ac5e848b422f67bfa9",
+		"logo": "https://i.postimg.cc/ydvrjZD4/hypersnakes.jpg",
+		"website": "https://www.hypersnakes.io/o/o/index.html",
+		"desc": "Real-time global multiplayer Snake game",
+		"details": "HyperSnakes is the first game where blockchain meets global real-time multiplayer battle game. Players can join a battle to compete with global players at any place. As long as you can ensure that your snake will survive till the end and become snake king, you can take away all the tokens you collected, winning the biggest reward in the battlefield. "
+	}, {
+		"name": "HyperDragons Go!",
+		"type": "game",
+		"smartcontract": "cae215265a5e348bfd603b8db22893aa74b42417",
+		"logo": "https://cms.ont.io/uploads/images/dapp/fc4f01aac017960f56c7e2bce7dd7f2c.png",
+		"website": "https://hyd-go.alfakingdom.com/",
+		"desc": "A Blockchain RPG Game.",
+		"details": "The renowned Idle RPG game is starting an amazing blockchain game journey with you"
+	}]
+}
