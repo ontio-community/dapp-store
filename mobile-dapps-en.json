@@ -24,5 +24,13 @@
 		"website": "https://hyd-go.alfakingdom.com/",
 		"desc": "A Blockchain RPG Game.",
 		"details": "The renowned Idle RPG game is starting an amazing blockchain game journey with you"
+	}, {
+		"name": "本体西游",
+		"type": "game",
+		"smartcontract": "7537caa69a7a6f56c3e15ea7b233169b618079a3",
+		"logo": "https://i.postimg.cc/xdgdVKtp/ontxiyou.png",
+		"website": "http://www.cttlife.com/Noumenon",
+		"desc": "区块链最好玩的DAPP",
+		"details": "《本体西游》是由DAppBirds发行的一款基于西游题材的魔幻回合制战斗游戏，游戏画面清新卡通，表现力强，完美展现了中国神话故事里美轮美奂的世界。游戏内容新颖多样，日常轻松的挂机升级结合高强度、乐趣丰富的boss战，公会战，竞技副本等内容，让大家玩得轻松又充满乐趣。 《本体西游》全面支持ONG生态，支持ONG充值，返利等相关应用，可以完美体现ONG货币的价值和生态 同时，《本体西游》还会基于区块链智能合约来深入地对游戏地各个系统进行改造，支持ONG掉落、兑换、奖励等，进一步深化ONG在游戏里的作用和价值。随着游戏的发展，我们后续还会进一步扩展区块链的应用场景，支持道具上链并自由交易，以及游戏账户的上链保存，永久纪念。"
 	}]
 }
