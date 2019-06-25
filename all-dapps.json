@@ -405,5 +405,32 @@
 		"website": "http://www.cttlife.com/Noumenon",
 		"desc": "区块链最好玩的DAPP",
 		"details": "《本体西游》是由DAppBirds发行的一款基于西游题材的魔幻回合制战斗游戏，游戏画面清新卡通，表现力强，完美展现了中国神话故事里美轮美奂的世界。游戏内容新颖多样，日常轻松的挂机升级结合高强度、乐趣丰富的boss战，公会战，竞技副本等内容，让大家玩得轻松又充满乐趣。 《本体西游》全面支持ONG生态，支持ONG充值，返利等相关应用，可以完美体现ONG货币的价值和生态 同时，《本体西游》还会基于区块链智能合约来深入地对游戏地各个系统进行改造，支持ONG掉落、兑换、奖励等，进一步深化ONG在游戏里的作用和价值。随着游戏的发展，我们后续还会进一步扩展区块链的应用场景，支持道具上链并自由交易，以及游戏账户的上链保存，永久纪念。"
+	}, {
+		"name": "CryptoPocker",
+		"type": "game",
+		"createtime": "2019/06/10 13:32:02",
+		"smartcontract": "90cb310d45585893418c96190daaf12c8e4fd260",
+		"logo": "https://i.postimg.cc/nLBmgrkc/cryptopocker.png",
+		"website": "http://cryptopoker.online",
+		"desc": "The Fairest Texas Holdem",
+		"details": "CryptoPoker is Texas Holdem based development of Ontology public chain. Dealing is based on smart contract. It is with fairness and transparency. The card type cannot be changed. "
+	}, {
+		"name": "Ryu Tournaments Layer-2",
+		"type": "game",
+		"createtime": "2019/04/18 08:00:23",
+		"smartcontract": "0f3384d015e7d569283dc4e1a8be64b101c90299",
+		"logo": "https://i.postimg.cc/GmBGPqTD/ryu.jpg",
+		"website": "https://ryu.games",
+		"desc": "Ryu Games' real-money tournaments system",
+		"details": "Ryu Games provides everything game developers need to quickly implement real-money tournaments in any online multiplayer game of skill. The stable Ryu Coin can be bought and sold directly through any of the apps using our layer-2 solution. The token will be non-transferable and therefore unable to be listed on exchanges. Users will be in full control of their Ryu Coin using a pre-existing or newly created Ontology wallet. "
+	}, {
+		"name": "消灭布洛克",
+		"type": "game",
+		"createtime": "2019/06/06 18:56:49",
+		"smartcontract": "176899e586d614c5d935ad5d59167f1fc50e1fc9",
+		"logo": "https://i.postimg.cc/4xrtWVpS/goblock.png",
+		"website": "https://dapp.game.dappmap.io/goblock/",
+		"desc": "区块链版消灭病毒",
+		"details": "《消灭布洛克》是DAppBirds基于本体公链发行的一款非常好玩的休闲射击游戏，你可以选择武器、升级武器，灭除各种各样的讨厌的病毒区块，还能每天冲榜瓜分高额榜单奖励。"
 	}]
 }
