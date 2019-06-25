@@ -145,5 +145,13 @@
 		"website": "https://dapp.game.dappmap.io/goblock/",
 		"desc": "区块链版消灭病毒",
 		"details": "《消灭布洛克》是DAppBirds基于本体公链发行的一款非常好玩的休闲射击游戏，你可以选择武器、升级武器，灭除各种各样的讨厌的病毒区块，还能每天冲榜瓜分高额榜单奖励。"
+	}, {
+		"name": "SmartSignature",
+		"type": "game",
+		"smartcontract": "36df9722fc0ff5fa3979f2a844a012cabe1d4c56",
+		"logo": "https://i.postimg.cc/kGvFZcxc/smartsignature.png",
+		"website": "https://smartsignature.io",
+		"desc": "赞赏好文，分享有收益！",
+		"details": "智能签名可以发布和赞赏文章，通过裂变系数，无论是创作者还是读者，从赞赏中获得收益。 "
 	}]
 }
