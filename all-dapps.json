@@ -441,5 +441,14 @@
 		"website": "https://smartsignature.io",
 		"desc": "赞赏好文，分享有收益！",
 		"details": "智能签名可以发布和赞赏文章，通过裂变系数，无论是创作者还是读者，从赞赏中获得收益。 "
+	}, {
+		"name": "加密王座",
+		"type": "game",
+		"createtime": "2019/05/29 18:06:44",
+		"smartcontract": "788e5d5523f5092e351918d8f9d570f788e53beb",
+		"logo": "https://i.postimg.cc/bwvYGGgN/cryptothrone.png",
+		"website": "https://www.cryptothrone.co/",
+		"desc": "一款打仗赚钱的游戏",
+		"details": "加密王座-无限世界（CryptoThrone）是一款基于本体区块链研发的模拟经营策略类游戏，在游戏中每位玩家拥有自己的城堡，不断生产资源、自由交易、升级建筑、招募士兵、打仗掠夺，实现“打仗即赚钱”的目的。不想孤军奋战，可以选择加入联盟或创建联盟，参与盟战、提升信仰、瓜分联盟奖池！  "
 	}]
 }
